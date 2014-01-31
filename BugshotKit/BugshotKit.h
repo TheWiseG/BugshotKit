@@ -5,7 +5,7 @@
 #import <UIKit/UIKit.h>
 #import "BSKMainViewController.h"
 #import "BSKWindow.h"
-
+//git test by gga
 #if ! DEBUG
 #warning BugshotKit is being included in a non-debug build.
 #endif
